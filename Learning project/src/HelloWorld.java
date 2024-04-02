@@ -6,6 +6,6 @@ public class HelloWorld {
         int c = a + b;
         System.out.println(c);
 
-        int d = 6;
+        int d = 4;
     }
 }
