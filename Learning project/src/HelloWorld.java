@@ -6,6 +6,8 @@ public class HelloWorld {
         int c = a + b;
         System.out.println(c);
 
-        int d = 4;
+        int d = 4, e = 6;
+        int f = d + e;
+        System.out.println("Text here. Sum of " + d + " + " + e + " = " + f);
     }
 }
