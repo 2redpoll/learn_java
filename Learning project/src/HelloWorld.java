@@ -5,5 +5,7 @@ public class HelloWorld {
         int a = 2, b = 3;
         int c = a + b;
         System.out.println(c);
+
+        int d = 4;
     }
 }
