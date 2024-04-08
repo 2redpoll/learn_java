@@ -9,5 +9,9 @@ public class HelloWorld {
         int d = 4, e = 6;
         int f = d + e;
         System.out.println("Text here. Sum of " + d + " + " + e + " = " + f);
+
+         for (int i=0; i<6; i++) {
+             System.out.println("Iteration " + i);
+        }
     }
 }
